@@ -1,2 +1,5 @@
 # graphql-demo
-Learning graphql
+Learning graphql     
+
+
+http://graphql.org/docs/getting-started/
